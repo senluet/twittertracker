@@ -2,6 +2,8 @@
 
 Software for tracking Twitter user subscriptions
 
+Intstall requirements -> pip install -r requirements.txt
+
 Twitter account cookies upload to account.txt
 
 Load twitter_id|nickname (999999|nickname) into infl_id.txt
